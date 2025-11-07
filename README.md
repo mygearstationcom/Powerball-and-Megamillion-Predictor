@@ -42,14 +42,14 @@ Thanks to LynxGeekNYC MegaMillion Predictor, AI and I created a predictor for Po
       &nbsp;&nbsp;&nbsp;&nbsp;and<br>
       &nbsp;&nbsp;&nbsp;&nbsp;python3 megamillions.py<br>
 # Note about updating the csv files
-&nbsp;&nbsp;&nbsp;&nbsp;<b>---- How to update the powerball.csv ----</b>
-&nbsp;&nbsp;&nbsp;&nbsp;<b>&nbsp;&nbsp;&nbsp;&nbsp;Go to https://catalog.data.gov/dataset/  
-&nbsp;&nbsp;&nbsp;&nbsp;<b>&nbsp;&nbsp;&nbsp;&nbsp;Search on megamillions then select the Title: Lottery Powerball Winning Numbers: Beginning *****
-&nbsp;&nbsp;&nbsp;&nbsp;<b>&nbsp;&nbsp;&nbsp;&nbsp;Download the file  into your subdirectory and rename as powerball.csv
-&nbsp;&nbsp;&nbsp;&nbsp;<b>---- How to update the megamillions.csv ----<b>
-&nbsp;&nbsp;&nbsp;&nbsp;<b>&nbsp;&nbsp;&nbsp;&nbsp;Go to https://catalog.data.gov/dataset/  
-&nbsp;&nbsp;&nbsp;&nbsp;<b>&nbsp;&nbsp;&nbsp;&nbsp;Search on megamillions then select the Title: Lottery Mega Millions Winning Numbers: Beginning *****
-&nbsp;&nbsp;&nbsp;&nbsp;<b>&nbsp;&nbsp;&nbsp;&nbsp;Download the file  into your subdirectory and rename as megamillions.csv
+&nbsp;&nbsp;&nbsp;&nbsp;<b>---- How to update the powerball.csv ----</b><br>
+&nbsp;&nbsp;&nbsp;&nbsp;<b>&nbsp;&nbsp;&nbsp;&nbsp;Go to https://catalog.data.gov/dataset/  <br>
+&nbsp;&nbsp;&nbsp;&nbsp;<b>&nbsp;&nbsp;&nbsp;&nbsp;Search on megamillions then select the Title: Lottery Powerball Winning Numbers: Beginning *****<br>
+&nbsp;&nbsp;&nbsp;&nbsp;<b>&nbsp;&nbsp;&nbsp;&nbsp;Download the file  into your subdirectory and rename as powerball.csv<br>
+&nbsp;&nbsp;&nbsp;&nbsp;<b>---- How to update the megamillions.csv ----<b><br>
+&nbsp;&nbsp;&nbsp;&nbsp;<b>&nbsp;&nbsp;&nbsp;&nbsp;Go to https://catalog.data.gov/dataset/  <br>
+&nbsp;&nbsp;&nbsp;&nbsp;<b>&nbsp;&nbsp;&nbsp;&nbsp;Search on megamillions then select the Title: Lottery Mega Millions Winning Numbers: Beginning *****<br>
+&nbsp;&nbsp;&nbsp;&nbsp;<b>&nbsp;&nbsp;&nbsp;&nbsp;Download the file  into your subdirectory and rename as megamillions.csv<br>
 
 
 # Good luck and DO NOT BLAME ME FOR ANY LOSSES! I AM NOT RESPONIBLE FOR YOUR ACTIONS AND ANY LOSSES or GAINS that YOU MIGHT INCUR.
