@@ -52,4 +52,4 @@ Thanks to LynxGeekNYC MegaMillion Predictor, AI and I created a predictor for Po
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Download the file  into your subdirectory and rename as megamillions.csv<br>
 
 
-# Good luck and DO NOT BLAME ME FOR ANY LOSSES! I AM NOT RESPONIBLE FOR YOUR ACTIONS AND ANY LOSSES or GAINS that YOU MIGHT INCUR.
+# Good luck and DO NOT BLAME ME FOR ANY LOSSES! I AM NOT RESPONSIBLE FOR YOUR ACTIONS and/or ANY LOSSES or GAINS that YOU MIGHT INCUR.
