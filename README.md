@@ -60,7 +60,8 @@ I was attempting to use the historical data from the csv files to predict upcomi
 Yeah, even AI keeps harping on the bad choice to even buy tickets and the RANDOMNESS of the draw so any predition is futile.<br>
 BUT - IT's FUN to try!!!.<br>
 Here's a quote from an AI :<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<q><strong>Illusion of Control:</strong> Systems like "weighted prediction" often create an illusion of control or exploit the human tendency to see<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;patterns where none exist (e.g., "hot" and "cold" numbers). In reality, these patterns are a result of chance.</q><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<q><strong>Illusion of Control:</strong> Systems like "weighted prediction" often create an illusion of control<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;or exploit the human tendency to see patterns where none exist<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (e.g., "hot" and "cold" numbers). In reality, these patterns are a result of chance.</q><br>
 The code that I present is then a "<i>RESULT OF CHANCE!</i>" its accuracy is yet to be determined :frowning: or :smiley:!
 # Good luck and DO NOT BLAME ME FOR ANY LOSSES! I AM NOT RESPONSIBLE FOR YOUR ACTIONS and/or ANY LOSSES or GAINS that YOU MIGHT INCUR.
