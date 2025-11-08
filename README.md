@@ -2,14 +2,13 @@
 Thanks to LynxGeekNYC MegaMillion Predictor, AI and I created a predictor for Powerball and MegaMillions.
 
 # Basically how I made it work for me
-1 - Cloned their repository <br>
-2 - Created a venv: python3 -m venv .venv<br>
-3 - Activated the .venv: source .venv/bin/activate<br>
-4 - ran their program: python3 lotto-2024-v1.py<br>
+1 - Cloned their repository:<br>&nbsp;&nbsp;&nbsp;&nbsp;git clone https://github.com/LynxGeekNYC/MegaMillions-Predictor.git<br>
+2 - Created a venv:<br>&nbsp;&nbsp;&nbsp;&nbsp;python3 -m venv .venv<br>
+3 - Activated the .venv:<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><strong>source</strong></i> .venv/bin/activate<br>
+4 - ran their program:<br>&nbsp;&nbsp;&nbsp;&nbsp;python3 lotto-2024-v1.py<br>
 5 - spent a lot of time in the .venv to set up all the dependicies.<br>
-     &nbsp;&nbsp;&nbsp;&nbsp;This stuff is way above my heads so I used AI to assist and read all the many error codes<br> &nbsp;&nbsp;&nbsp;&nbsp;to corectly set up the ,venv
-      so the program would run.<br>
-6 - I finally developed 2 new programs for my purposes.<br>
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sub><i>---This stuff is way above my head so I used AI to assist and read all the many error codes to corectly set up the .venv so the program would run.</i></sub><br>
+6 - I finally developed 2 new programs for my purposes:<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;powerball.py<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;megamillions.py<br>
 7 - my ouput:<br>
