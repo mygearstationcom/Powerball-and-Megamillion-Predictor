@@ -6,7 +6,7 @@ Thanks to LynxGeekNYC MegaMillion Predictor, AI and I created a predictor for Po
 2 - Created a venv:<br>&nbsp;&nbsp;&nbsp;&nbsp;python3 -m venv .venv<br>
 3 - Activated the .venv:<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><strong>source</strong></i> .venv/bin/activate<br>
 4 - ran their program:<br>&nbsp;&nbsp;&nbsp;&nbsp;python3 lotto-2024-v1.py<br>
-5 - spent a lot of time in the .venv to set up all the dependicies.<br>
+5 - spent a lot of time in the .venv to set up all the dependencies.<br>
      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sub><i>---This stuff is way above my head so I used AI to assist and read all the many error codes to corectly set up the .venv so the program would run.</i></sub><br>
 6 - I finally developed 2 new programs for my purposes:<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;powerball.py<br>
