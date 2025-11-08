@@ -31,12 +31,11 @@ Thanks to LynxGeekNYC MegaMillion Predictor, AI and I created a predictor for Po
   1 - Clone my repository<br>
   2 - Create a virtual environment:<br>
       &nbsp;&nbsp;&nbsp;&nbsp;python3 -m venv .venv<br>
-  3 - Activate the .venv<br>
+  3 - Activate the .venv:<br>
       &nbsp;&nbsp;&nbsp;&nbsp;.venv/bin/activate<br>
   4 - Make sure you have the necessary site packages installed.<br>
-      &nbsp;&nbsp;&nbsp;&nbsp; My system needed pandas, numpy, tensorflow==2.16.1 to work.<br>
-      &nbsp;&nbsp;&nbsp;&nbsp;Your system may need these and others.<br>
-  4 - Run the programs<br>
+      &nbsp;&nbsp;&nbsp;&nbsp; <sub>My system needed pandas, numpy, tensorflow==2.16.1 to work. Your system may need these and others.</sub><br>
+  4 - Run the programs:<br>
       &nbsp;&nbsp;&nbsp;&nbsp;python3 powerball.py<br>
       &nbsp;&nbsp;&nbsp;&nbsp;and<br>
       &nbsp;&nbsp;&nbsp;&nbsp;python3 megamillions.py<br>
