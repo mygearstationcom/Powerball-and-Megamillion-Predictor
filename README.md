@@ -55,5 +55,12 @@ Thanks to LynxGeekNYC MegaMillion Predictor, AI and I created a predictor for Po
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Highlight the data columns, copy to a new sheet, <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Click on the new sheet and save as megamillions.csv<br>
 
-
+# What did I accomplish or failed to accomplish?
+I was attempting to use the historical data from the csv files to predict upcoming combinations that were likely based on the previous occurances of those numbers. I have not totally been convinced that my objective is being accomplished.I will revisit. AI suggest that I should use a pivot table in my favorite spreadshhet program.<br>
+Yeah, even AI keeps harping on the bad choice to even buy tickets and the RANDOMNESS of the draw so any predition is futile.<br>
+BUT - IT's FUN to try!!!.<br>
+Here's a quote from an AI :<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<q><strong>Illusion of Control:</strong> Systems like "weighted prediction" often create an illusion of control or exploit the human tendency to see<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;patterns where none exist (e.g., "hot" and "cold" numbers). In reality, these patterns are a result of chance.</q><br>
+The code that I present is then a "<i>RESULT OF CHANCE!</i>" its accuracy is yet to be determined :frowning: or :smiley:!
 # Good luck and DO NOT BLAME ME FOR ANY LOSSES! I AM NOT RESPONSIBLE FOR YOUR ACTIONS and/or ANY LOSSES or GAINS that YOU MIGHT INCUR.
