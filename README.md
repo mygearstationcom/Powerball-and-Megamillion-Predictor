@@ -10,8 +10,8 @@ Thanks to LynxGeekNYC MegaMillion Predictor, AI and I created a predictor for Po
      &nbsp;&nbsp;&nbsp;&nbsp;This stuff is way above my heads so I used AI to assist and read all the many error codes<br> &nbsp;&nbsp;&nbsp;&nbsp;to corectly set up the ,venv
       so the program would run.<br>
 6 - I finally developed 2 new programs for my purposes.<br>
-      powerball.py<br>
-      megamillions.py<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;powerball.py<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;megamillions.py<br>
 7 - my ouput:<br>
 &nbsp;&nbsp;&nbsp;&nbsp;<b>python3 powerball.py</b><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Predicted numbers based on frequency (PowerBall):<br>
