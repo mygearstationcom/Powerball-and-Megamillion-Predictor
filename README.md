@@ -42,14 +42,20 @@ Thanks to LynxGeekNYC MegaMillion Predictor, AI and I created a predictor for Po
       &nbsp;&nbsp;&nbsp;&nbsp;and<br>
       &nbsp;&nbsp;&nbsp;&nbsp;python3 megamillions.py<br>
 # Note about updating the csv files
-&nbsp;&nbsp;&nbsp;&nbsp;<b>---- How to update the powerball.csv ----</b><br>
+&nbsp;&nbsp;&nbsp;&nbsp;<b><i>---- How to update the powerball.csv ----</i></b><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Go to https://catalog.data.gov/dataset/  <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Search on megamillions then select the Title: Lottery Powerball Winning Numbers: Beginning *****<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Download the file  into your subdirectory and rename as powerball.csv<br>
-&nbsp;&nbsp;&nbsp;&nbsp;<b>---- How to update the megamillions.csv ----<b><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Download the file  into your subdirectory<br> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Open in your favorite spreadsheet program. <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Highlight the data colums, copy to a new sheet, <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Click on the new sheet and save as powerball.csv<br>
+&nbsp;&nbsp;&nbsp;&nbsp;<b><i>---- How to update the megamillions.csv ----</i></b><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Go to https://catalog.data.gov/dataset/  <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Search on megamillions then select the Title: Lottery Mega Millions Winning Numbers: Beginning *****<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Download the file  into your subdirectory and rename as megamillions.csv<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Download the file  into your subdirectory<br> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Open in your favorite spreadsheet program. <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Highlight the data colums, copy to a new sheet, <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Click on the new sheet and save as megamillions.csv<br>
 
 
 # Good luck and DO NOT BLAME ME FOR ANY LOSSES! I AM NOT RESPONSIBLE FOR YOUR ACTIONS and/or ANY LOSSES or GAINS that YOU MIGHT INCUR.
