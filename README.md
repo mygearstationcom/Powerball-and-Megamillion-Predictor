@@ -57,7 +57,7 @@ Thanks to LynxGeekNYC MegaMillion Predictor, AI and I created a predictor for Po
 
 # What did I accomplish or failed to accomplish?
 I was attempting to use the historical data from the csv files to predict upcoming combinations that were likely based on the previous occurances of those numbers. I have not totally been convinced that my objective is being accomplished.I will revisit. AI suggest that I should use a pivot table in my favorite spreadsheet program.<br>
-Yeah, even AI keeps harping on the bad choice to even buy tickets and the RANDOMNESS of the draw so any predition is futile.<br>
+Yeah, even AI keeps harping on the bad choice to even buy tickets and the RANDOMNESS of the draw so any prediction is futile.<br>
 BUT - IT's FUN to try!!!.<br>
 Here's a quote from an AI :<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<q><strong>Illusion of Control:</strong> Systems like "weighted prediction" often create an illusion of control<br>
